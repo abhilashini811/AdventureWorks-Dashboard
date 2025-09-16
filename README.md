@@ -73,13 +73,24 @@ _**Business Impact and Insights**_
 
 **📷 Screenshots**
 
-**Executive Overview** - https://github.com/abhilashini811/AdventureWorks-Dashboard/blob/main/Executive_Page.PNG
+**_1) Executive Overview_**
 
-**Map Visualization** - https://github.com/abhilashini811/AdventureWorks-Dashboard/blob/main/Map_Page.PNG
+![Executive Overview](https://github.com/abhilashini811/AdventureWorks-Dashboard/blob/main/Executive_Page.PNG)
 
-**Product Detail (Drillthrough Page)** - https://github.com/abhilashini811/AdventureWorks-Dashboard/blob/main/Product_Detail.PNG
 
-**Customer Detail** - https://github.com/abhilashini811/AdventureWorks-Dashboard/blob/main/Customer_Detail.PNG
+_**2) Map Visualization**_
+
+![Map Visualization](https://github.com/abhilashini811/AdventureWorks-Dashboard/blob/main/Map_Page.PNG)
+
+
+_**3) Product Detail (Drillthrough Page)**_
+
+![Product Detail (Drillthrough Page)](https://github.com/abhilashini811/AdventureWorks-Dashboard/blob/main/Product_Detail.PNG)
+
+
+_**4) Customer Detail**_
+
+![Customer Detail](https://github.com/abhilashini811/AdventureWorks-Dashboard/blob/main/Customer_Detail.PNG)
 
 
 
